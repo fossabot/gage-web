@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabkfenris%2Fgage-web.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabkfenris%2Fgage-web?ref=badge_shield)
+
 gage-web
 ========
 
@@ -53,3 +55,7 @@ A web interface for a low cost stream height gauging system.
 
 View `Local Development <http://abkfenris.github.io/gage-web/developers/local.html>` for
 instructions on how to setup and run a server.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fabkfenris%2Fgage-web.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fabkfenris%2Fgage-web?ref=badge_large)
